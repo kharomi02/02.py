@@ -1,0 +1,15 @@
+## MENENTUKAN BILANGAN GANJIL/GENAP
+
+START 
+
+user meng input sebuah angka
+
+if angka tersebut ganjil THEN
+    TAMPILKAN "ganjil"
+
+else
+    TAMPILKAN "genap"
+
+ANDIF
+
+AND
