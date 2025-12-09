@@ -1,0 +1,8 @@
+START 
+
+    INPUT PANJANG
+    INPUT LEBAR
+    LUAS = P * L
+    OUTPUT LUAS 
+
+END
