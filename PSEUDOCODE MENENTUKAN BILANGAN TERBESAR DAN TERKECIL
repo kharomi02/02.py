@@ -1,0 +1,38 @@
+
+# MENENTUKAN BILANGAN TERBESAR DAN TERKECIL
+
+PSEUDOCODE YANG SEDERHANA:
+start
+input 5 bilangan bulat
+proses perbandingan:
+        nilai max
+        niai min
+output nilai
+end
+
+PSEUDOCODE YANG LEBIH LENGKAP
+START
+INPUT : a,b,c,d,e
+a ← 6
+b ← 2
+c ← 9
+d ← 5
+e ← 1
+max ← a
+min ← a
+
+if b > max THEN max ← b
+if b < min THEN min ← b
+
+if c > max THEN max ← c
+if c < min THEN min ← c 
+
+if d > max THEN max ← d
+if d < min THEN min ← d
+
+if e > max THEN max ← e
+if e < min THEN min ← e
+
+OUTPUT max
+OUTPUT min
+END
